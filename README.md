@@ -1,7 +1,9 @@
 # Road Safety Insights Dashbaord
 Step into the world of road safety with this interactive dashboard, crafted to unveil the intricate patterns of accidents that unfolded in the years 2021 and 2022. 
 The excel dashboard focuses on key factors, including vehicle type, road type, and weather conditions, 
-providing a comprehensive analysis of road safety dynamics.
+providing a comprehensive analysis of road safety dynamics. 
+
+Explore the dashboard here: https://www.dropbox.com/scl/fi/k3a046d4kfcnboo21gymo/Road-Accident-Trends.xlsx?rlkey=0t3i6ggp6ysgnjd7mvxjwqe83&dl=0
 
 
 ![Road Accident Trends](https://github.com/banelendlovu/Road-Accident-Trends/assets/62768117/a447bd91-4a62-4871-ab6b-023a64e21629)
